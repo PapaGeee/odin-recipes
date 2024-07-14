@@ -1,1 +1,2 @@
 # odin-recipes
+I am building a basic website about recipes with assistance of the amazing odin project tutorials. Once done with the project, I expect to have mastered all basic HTML concepts, elements, attributes, links, images, and more.
